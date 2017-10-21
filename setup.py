@@ -8,12 +8,12 @@ with open("README.md", 'r') as f:
     long_description = f.read()
 
 # requirements
-requirements = []
+requeriments = []
 
 setup(
-    name='AndoidExamplesIV',
+    name='AndroidExamplesIV',
     version='0.1',
-    description='An Android App to understand how different technologies work together.',
+    description='An app to help understand how different technologies work together.',
     long_description=long_description,
     license="GPLv3",
     author='Juan Anaya Ortiz',
