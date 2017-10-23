@@ -18,5 +18,4 @@ setup(
     license="GPLv3",
     author='Juan Anaya Ortiz',
     author_email='juan.anaya.ortiz@gmail.com',
-    url="https://github.com/JaoChaos/AndroidExamplesIV",
-    install_requires=requirements, )
+    url="https://github.com/JaoChaos/AndroidExamplesIV", )
