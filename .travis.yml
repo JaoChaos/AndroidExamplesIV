@@ -7,4 +7,4 @@ before_install:
   - pip install .
 script:
   - cd tests
-  - pytest
+  - pytest /app/test.py

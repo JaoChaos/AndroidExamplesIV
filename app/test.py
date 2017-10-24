@@ -3,5 +3,6 @@ import os
 import AndroidExamples/tests/functions.py
 
 comprobar = compruebaarchivos(AndroidExamplesIV/app/src)
-	
-return comprobar
+
+if __name__ == '__main__':
+    unittest.main()
