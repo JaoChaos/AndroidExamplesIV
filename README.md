@@ -9,4 +9,5 @@ Servicio desplegado en Heroku como PaaS.
 [![Build Status](https://travis-ci.org/JaoChaos/AndroidExamplesIV.svg?branch=master)](https://travis-ci.org/JaoChaos/AndroidExamplesIV)
 
 Comprobar el despliegue en Heroku:
-Despliegue https://dashboard.heroku.com/apps/obscure-castle-81182
+Despliegue https://obscure-castle-81182.herokuapp.com/
+obscure-castle-81182
