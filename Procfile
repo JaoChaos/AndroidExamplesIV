@@ -1,1 +1,1 @@
-web: obscure-castle-81182 app:app --log-file=-
+web: gunicorn app:app --log-file=-
